@@ -1,2 +1,2 @@
 # roz-records
-Open Telemetry (Otel) Logging services for Python
+Open Telemetry (oTel) Logging services for Python for providers like Seq
